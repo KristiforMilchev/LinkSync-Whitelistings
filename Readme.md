@@ -36,7 +36,7 @@ if you're project fits the requirements for our eco system then the only thing t
 add the following file named token.json replace all the fields with the information regarding your own token then open a pull requests to merge with the main branch. After you open the pull requests for a merge you must follow the instructions from the github bot and tweet at us on twitter with the following message ```Joing the #SYNCFamily :) #yourtokenname```
 
 ```
-   {
+{
   "Name": "LinkSync",
   "Symbol": "SYNC",
   "Website": "https://linksync.tech",
@@ -57,29 +57,37 @@ add the following file named token.json replace all the fields with the informat
   "Links": [
     {
       "Type": 0,
+      "Name": "Linksyncofficial",
       "Url": "https://www.facebook.com/Linksyncofficial"
     },
     {
       "Type": 1,
+      "Name": "LinkSync_Tech",
       "Url": "https://twitter.com/LinkSync_Tech"
     },
     {
       "Type": 2,
+      "Name": "@linksyncofficial",
       "Url": "https://t.me/linksyncofficial"
     },
     {
       "Type": 3,
+      "Name": "Pancakeswap",
       "Url": "https://pancakeswap.finance/swap?outputCurrency=0xF6a22B0593df74F218027A2d8b7953c9b4542AA1"
     },
     {
       "Type": 4,
+      "Name": "Website",
       "Url": "https://linksync.tech/"
     },
     {
       "Type": 5,
+      "Name": "r/Linksync_Army",
       "Url": "https://www.reddit.com/r/Linksync_Army/"
     }
-  ]}
+  ]
+}
+
 ```
 
 Important, listing tokens can take some time while the team validates the information entered inside the request and we refrain 
