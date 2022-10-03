@@ -36,7 +36,7 @@ if you're project fits the requirements for our eco system then the only thing t
 add the following file named token.json replace all the fields with the information regarding your own token then open a pull requests to merge with the main branch. After you open the pull requests for a merge you must follow the instructions from the github bot and tweet at us on twitter with the following message ```Joing the #SYNCFamily :) #yourtokenname```
 
 ```
-  {
+   {
   "Name": "LinkSync",
   "Symbol": "SYNC",
   "Website": "https://linksync.tech",
