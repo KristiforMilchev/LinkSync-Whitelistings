@@ -50,7 +50,8 @@ add the following file named token.json replace all the fields with the informat
       "Supply": "1000000000000000",
       "MainLiquidityPool": "0x1c06a11e94B5502d011Bbd240F23d1c147561DAb",
       "PairTokenAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "ListedExchangeRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E"
+      "ListedExchangeRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "PairName":"BNB"
     }
   ],
   //Ds source -0 Facebook, -1 Twitter, -2 Telegram, -3 Exchange -4 Website, -5 Reddit
