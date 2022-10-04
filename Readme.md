@@ -86,7 +86,10 @@ add the following file named token.json replace all the fields with the informat
       "Name": "r/Linksync_Army",
       "Url": "https://www.reddit.com/r/Linksync_Army/"
     }
-  ]
+  ],
+   "TwitterFeed":"Added by SYNC Team do not change",
+  "InstagramFeed":"Added by SYNC Team do not change",
+  "YoutubeFeed":"Added by SYNC Team do not change"
 }
 
 ```
